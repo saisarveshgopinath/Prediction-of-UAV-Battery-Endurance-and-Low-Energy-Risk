@@ -1,0 +1,22 @@
+{
+  "dataset_shape": [
+    15000,
+    37
+  ],
+  "missing_values": 0,
+  "duplicates": 0,
+  "best_soh_model_by_mae": {
+    "Model": "Linear Regression",
+    "MAE": 1.7480804487331822,
+    "RMSE": 2.2024357447324334,
+    "R2": 0.9227560558094671
+  },
+  "best_classifier_by_macro_f1": {
+    "Model": "Gradient Boosting",
+    "Accuracy": 0.959,
+    "Precision": 0.9577301430790761,
+    "Recall": 0.959,
+    "Weighted_F1": 0.9579601915417479,
+    "Macro_F1": 0.7646676034994269
+  }
+}

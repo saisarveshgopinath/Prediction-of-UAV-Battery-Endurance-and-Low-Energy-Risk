@@ -1,0 +1,11 @@
+                  precision    recall  f1-score   support
+
+     Aging_State       0.85      0.86      0.86       297
+        Degraded       0.50      0.11      0.18         9
+Healthy_High_SOC       0.91      0.91      0.91       354
+         Low_SOC       0.99      1.00      0.99      2072
+  Moderate_State       0.90      0.87      0.88       268
+
+        accuracy                           0.96      3000
+       macro avg       0.83      0.75      0.76      3000
+    weighted avg       0.96      0.96      0.96      3000
